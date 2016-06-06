@@ -1,4 +1,4 @@
-# A3Wasteland Altis
+# A3Wasteland Altis - GS-1 Edition
 
 A3Wasteland is a survival-like combat sandbox, which incorporates elements of team deathmatch and sector control in one big fun-to-play package. Similar to DayZ, the objectives are to scavenge weapons and vehicles, team up with fellow players, and engage in combat to obtain control of the landscape. Best experienced with 50 or more players. 
 
@@ -9,6 +9,12 @@ The mission has come a long way since 404 Wasteland. A large portion of the code
 For questions and support, please visit our [forums](http://forums.a3wasteland.com/).
 
 ---
+
+#### GS-1 Developer
+
+* Filk
+* Mike
+* c0ntr4
 
 #### Team Wasteland developers
 
