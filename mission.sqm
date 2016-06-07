@@ -43,8 +43,8 @@ class Mission
 {
 	class Intel
 	{
-		briefingName="A3Wasteland Altis v1.2b"; // it would be great if you could keep "A3" in the name, like "ABC A3Wasteland" instead of "ABC Wasteland" :)
-		overviewText="Wasteland survival sandbox by Team Wasteland - visit A3Wasteland.com for more details";
+		briefingName="GS-1 A3Wasteland Altis v1.2b"; // it would be great if you could keep "A3" in the name, like "ABC A3Wasteland" instead of "ABC Wasteland" :)
+		overviewText="Wasteland survival sandbox by Team Wasteland and GS-1 - visit A3Wasteland.com for more details";
 		resistanceWest=0;
 		timeOfChanges=3e+038;
 		startWeather=0;
@@ -52,7 +52,7 @@ class Mission
 		forecastWeather=0;
 		forecastWind=0;
 		forecastWaves=0;
-		rainForced=1;
+		rainForced=0;
 		year=2035;
 		month=6;
 		hour=6;
